@@ -1,0 +1,56 @@
+h3{
+    color:black !important;
+}
+#imagen {
+
+    /*padding: 12px;
+    margin: auto;*/
+}
+
+
+a {
+    color:black !important;
+}
+a:hover {
+    color:#106eea !important;
+}
+
+
+.action :hover{
+    background-color: #106eea !important;
+
+
+
+}
+span.price{
+    color: #106eea !important;
+}
+
+#buton:hover{
+    color: white !important;
+
+
+}
+
+.owl-prev{
+    background-color: black !important;
+
+
+}
+.owl-next{
+    background-color: black !important;
+
+
+}
+.owl-prev:hover{
+    background-color: #106eea !important;
+
+
+}
+.owl-next:hover{
+    background-color: #106eea !important;
+
+
+}
+
+  
